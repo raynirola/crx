@@ -1,0 +1,20 @@
+{
+  "name": "travelarrow",
+  "version": "2.6.0",
+  "description": "TravelArrow is your travel companion. We help you unlock deals to save big on travel!",
+  "scripts": {
+    "dev": "NODE_ENV=development node webpack.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chrome": "^0.0.210",
+    "@types/webpack": "^5.28.1",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-loader": "^4.2.0",
+    "prettier": "^2.7.1",
+    "source-map-loader": "^3.0.1",
+    "ts-loader": "^9.4.3",
+    "typescript": "^5.0.4",
+    "webpack": "^5.75.0"
+  }
+}

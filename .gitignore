@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+
+package-lock.json
+pnpm-lock.yaml
+output/**/*
+
+.DS_Store
+src/styles/app.css
+
+ta/
